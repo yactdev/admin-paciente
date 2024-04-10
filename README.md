@@ -2,7 +2,7 @@
 
 ## How to install:
  1. clone the repository 
-`
+
 `git clone https://github.com/yactdev/admin-paciente.git`
  
  2. Install dependecies
